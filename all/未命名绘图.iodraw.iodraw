@@ -31,8 +31,20 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-8" value="2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="475" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-10" target="52s8Rk81V9WvFK6hl1kG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-10" value="3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="475" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-14" target="52s8Rk81V9WvFK6hl1kG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-14" value="4" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="475" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-16" value="4" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="475" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
