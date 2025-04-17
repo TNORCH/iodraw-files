@@ -34,15 +34,8 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-209" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="52s8Rk81V9WvFK6hl1kG-215">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="515" y="500" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="515" y="510" />
-              <mxPoint x="475" y="510" />
-              <mxPoint x="475" y="560" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-213" target="52s8Rk81V9WvFK6hl1kG-215">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-213" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;是否是空格、制表符、换行符&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="390" width="140" height="80" as="geometry" />
@@ -54,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-215" value="是否是字母开头" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="535" width="110" height="50" as="geometry" />
+          <mxGeometry x="530" y="535" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-217" value="后续字母或数字组成字符串" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="650" width="100" height="50" as="geometry" />
