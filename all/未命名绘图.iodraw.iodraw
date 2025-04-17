@@ -121,9 +121,15 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-233" value="生成对应 Token（如 T_ASSIGN、T_EQ 等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-234">
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-234" target="52s8Rk81V9WvFK6hl1kG-209">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1450" y="690" as="targetPoint" />
+            <mxPoint x="750" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1450" y="680" />
+              <mxPoint x="751" y="680" />
+              <mxPoint x="751" y="670" />
+              <mxPoint x="840" y="670" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-234" value="ERROR&lt;div&gt;系统报错&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
