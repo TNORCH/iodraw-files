@@ -22,17 +22,16 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-199" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;调用 tokenize() 开始词法分析&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-205" target="52s8Rk81V9WvFK6hl1kG-209">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-205">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-205" target="52s8Rk81V9WvFK6hl1kG-213">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-205" value="当前字符是否为 &#39;#&#39;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="290" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-209" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-213" target="52s8Rk81V9WvFK6hl1kG-215">
           <mxGeometry relative="1" as="geometry" />
@@ -71,11 +70,6 @@
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-219" value="判断是否为关键字" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="677.5" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-220">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="970" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-220" value="保存关键字Token" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="730" width="120" height="60" as="geometry" />
