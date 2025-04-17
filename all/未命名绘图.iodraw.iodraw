@@ -109,7 +109,7 @@
             <mxPoint x="510" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-162" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-162" value="非关键字字母组" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
