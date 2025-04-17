@@ -12,6 +12,9 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-193" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-198" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;提示用户输入源程序&lt;span style=&quot;background-color: initial;&quot;&gt;从控制台读取源代码字符，存入字符串 `src`&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
