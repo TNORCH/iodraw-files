@@ -111,7 +111,7 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-152" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="655" y="945" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-154" value="[A-Z]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-154" value="[a-z]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="435" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-156" value="运算符/界符" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -131,6 +131,9 @@
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-169" value="数字" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-170" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="610" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
