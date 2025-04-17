@@ -72,6 +72,11 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-219" value="判断是否为关键字" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="677.5" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-220">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-220" value="保存关键字Token" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="730" width="120" height="60" as="geometry" />
         </mxCell>
@@ -137,7 +142,7 @@
           <mxGeometry x="660" y="378" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-255" value="false" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="760" y="330" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
