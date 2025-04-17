@@ -145,8 +145,8 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-295" value="得到完整 Token 序列" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-297" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="435" width="120" height="60" as="geometry" />
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-297" value="遍历 Token 序列，格式化输出为 (syn, lexeme[, value]) 形式" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="435" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
