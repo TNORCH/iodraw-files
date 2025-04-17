@@ -101,8 +101,11 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-113" value="字母" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-114" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="568" width="50" height="30" as="geometry" />
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-114" value="数字" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="570" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-115" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="668" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
