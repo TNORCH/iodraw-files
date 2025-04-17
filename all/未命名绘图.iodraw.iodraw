@@ -34,12 +34,13 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-209" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-213" target="52s8Rk81V9WvFK6hl1kG-215">
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="52s8Rk81V9WvFK6hl1kG-215">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="500" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="585" y="480" />
-              <mxPoint x="545" y="480" />
-              <mxPoint x="545" y="530" />
+              <mxPoint x="515" y="510" />
+              <mxPoint x="475" y="510" />
+              <mxPoint x="475" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -53,10 +54,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-215" value="是否是字母开头" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="505" width="110" height="50" as="geometry" />
+          <mxGeometry x="520" y="535" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-217" value="后续字母或数字组成字符串" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="620" width="100" height="50" as="geometry" />
+          <mxGeometry x="505" y="650" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-219" target="52s8Rk81V9WvFK6hl1kG-220">
           <mxGeometry relative="1" as="geometry" />
@@ -65,13 +66,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-219" value="判断是否为关键字" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="700" width="130" height="80" as="geometry" />
+          <mxGeometry x="490" y="730" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-220" value="保存关键字Token" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-222" value="保存为标识符 Token" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-226" target="52s8Rk81V9WvFK6hl1kG-228">
           <mxGeometry relative="1" as="geometry" />
@@ -80,25 +81,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-226" value="是否是数字开头" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="510" width="135" height="50" as="geometry" />
+          <mxGeometry x="640" y="540" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-227" value="是否是符号开头" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="505" width="140" height="60" as="geometry" />
+          <mxGeometry x="810" y="535" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-228" value="连续读取数字，组成整数常量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="767.5" y="660" width="100" height="50" as="geometry" />
+          <mxGeometry x="697.5" y="690" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-230" value="保存为 T_INT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="757.5" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="687.5" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-232" value="判断是否组合符号&lt;div&gt;如 :=、==、&amp;lt;=&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="642.5" width="140" height="85" as="geometry" />
+          <mxGeometry x="840" y="672.5" width="140" height="85" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-233" value="生成对应 Token（如 T_ASSIGN、T_EQ 等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-234" value="ERROR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
