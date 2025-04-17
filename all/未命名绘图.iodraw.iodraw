@@ -98,10 +98,10 @@
           <mxGeometry x="820" y="610" width="140" height="85" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-233" value="生成对应 Token（如 T_ASSIGN、T_EQ 等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-234" value="ERROR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
