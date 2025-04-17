@@ -46,6 +46,9 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-217" value="后续字母或数字组成字符串" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="830" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-219" value="判断是否为关键字（如 begin、if）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="900" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
