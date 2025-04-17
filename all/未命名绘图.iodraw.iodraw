@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-193" target="52s8Rk81V9WvFK6hl1kG-199">
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-193" target="52s8Rk81V9WvFK6hl1kG-198">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-193" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-199" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;调用 tokenize() 开始词法分析&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-205" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="550" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
