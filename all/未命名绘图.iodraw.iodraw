@@ -49,7 +49,7 @@
           <mxGeometry x="370" y="740" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-217" value="后续字母或数字组成字符串" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="840" width="100" height="50" as="geometry" />
+          <mxGeometry x="375" y="850" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-219" target="52s8Rk81V9WvFK6hl1kG-220">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +67,10 @@
           <mxGeometry x="380" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-226" value="是否是数字开头" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="780" width="135" height="80" as="geometry" />
+          <mxGeometry x="510" y="780" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-227" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="770" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
