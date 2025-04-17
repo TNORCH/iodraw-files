@@ -87,7 +87,7 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-233" value="生成对应 Token（如 T_ASSIGN、T_EQ 等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-234" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-234" value="ERROR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
