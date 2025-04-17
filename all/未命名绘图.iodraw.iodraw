@@ -94,6 +94,12 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-230" value="保存为 T_INT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="697.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-232" target="52s8Rk81V9WvFK6hl1kG-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-232" target="52s8Rk81V9WvFK6hl1kG-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-232" value="判断是否组合符号&lt;div&gt;如 :=、==、&amp;lt;=&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="610" width="140" height="85" as="geometry" />
         </mxCell>
@@ -102,6 +108,9 @@
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-234" value="ERROR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-245" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
