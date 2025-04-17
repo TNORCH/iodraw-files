@@ -22,17 +22,11 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-205" target="52s8Rk81V9WvFK6hl1kG-209">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-205" target="52s8Rk81V9WvFK6hl1kG-211">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-205" value="当前字符是否为 &#39;#&#39;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="560" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-209" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-211" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
