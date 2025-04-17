@@ -39,6 +39,10 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="730" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="660" />
+              <mxPoint x="660" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="52s8Rk81V9WvFK6hl1kG-28" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
