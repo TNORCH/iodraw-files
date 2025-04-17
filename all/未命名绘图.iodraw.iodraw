@@ -37,8 +37,14 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-213" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;是否是空格、制表符、换行符&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="700" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-215" value="是否是字母" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="800" width="80" height="80" as="geometry" />
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52s8Rk81V9WvFK6hl1kG-215" target="52s8Rk81V9WvFK6hl1kG-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-215" value="是否是字母开头" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-217" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
