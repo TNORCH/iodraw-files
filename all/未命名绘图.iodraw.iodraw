@@ -66,8 +66,8 @@
         <mxCell id="52s8Rk81V9WvFK6hl1kG-222" value="保存为标识符 Token" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52s8Rk81V9WvFK6hl1kG-226" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="780" width="80" height="80" as="geometry" />
+        <mxCell id="52s8Rk81V9WvFK6hl1kG-226" value="是否是数字开头" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="780" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
