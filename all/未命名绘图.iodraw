@@ -29,16 +29,16 @@
           <mxGeometry x="938.5" y="628" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-29" value="坐标平滑模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="905.5" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-30" value="向量几何解算器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="905.5" y="369" width="120" height="60" as="geometry" />
+          <mxGeometry x="834" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-32" value="FSM 动作状态机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1234" y="566" width="120" height="60" as="geometry" />
+          <mxGeometry x="977" y="378" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-33" value="纠错判定引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1239" y="666" width="120" height="60" as="geometry" />
+          <mxGeometry x="834" y="378" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
