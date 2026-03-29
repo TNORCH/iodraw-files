@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-2" value="智能健身辅助系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="366" width="120" height="60" as="geometry" />
+          <mxGeometry x="731" y="309" width="264" height="117" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQrgcm9WcDkjXIgkCIK-5" target="jnQrgcm9WcDkjXIgkCIK-13">
           <mxGeometry relative="1" as="geometry" />
@@ -45,8 +45,8 @@
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-18" value="姿态关键点提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="687" width="31" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="872" y="801" width="120" height="60" as="geometry" />
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-19" value="图像预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="799" y="687" width="31" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
