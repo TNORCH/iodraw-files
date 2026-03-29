@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-10" value="智能辅助健身系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1049" y="194" width="114" height="26" as="geometry" />
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="916" y="643" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
