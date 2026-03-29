@@ -34,10 +34,10 @@
           <mxGeometry x="802" y="544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-9" value="实时交互反馈模块" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="964" y="544" width="120" height="60" as="geometry" />
+          <mxGeometry x="1053" y="544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-11" value="系统设置与管理模块" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1126" y="544" width="120" height="60" as="geometry" />
+          <mxGeometry x="1215" y="544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-17" value="实时画面采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="644" y="685" width="31" height="60" as="geometry" />
@@ -76,10 +76,10 @@
           <mxGeometry x="844" y="684.5" width="30.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-53" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;自动&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;计数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;统计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="888" y="686.5" width="31" height="60" as="geometry" />
+          <mxGeometry x="891" y="684.5" width="31" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-55" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;标准&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;度判&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;定&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="933" y="689" width="31" height="60" as="geometry" />
+          <mxGeometry x="933" y="685.5" width="31" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jnQrgcm9WcDkjXIgkCIK-7" target="jnQrgcm9WcDkjXIgkCIK-51" edge="1">
           <mxGeometry relative="1" as="geometry">
