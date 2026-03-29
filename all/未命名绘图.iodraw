@@ -8,7 +8,7 @@
           <mxGeometry x="864.5" y="620" width="202" height="236.5" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="824" y="237" width="281" height="304" as="geometry" />
+          <mxGeometry x="825" y="234" width="281" height="304" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dElGWp7Qqq03L8kTRm7E-18" target="dElGWp7Qqq03L8kTRm7E-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,10 +29,10 @@
           <mxGeometry x="938.5" y="628" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-29" value="坐标平滑模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="904.5" y="449" width="120" height="60" as="geometry" />
+          <mxGeometry x="905.5" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-30" value="向量几何解算器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="483" width="120" height="60" as="geometry" />
+          <mxGeometry x="905.5" y="369" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-32" value="FSM 动作状态机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1234" y="566" width="120" height="60" as="geometry" />
