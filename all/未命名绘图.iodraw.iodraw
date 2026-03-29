@@ -66,11 +66,14 @@
             <mxPoint x="686" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-50" value="动作状态识别自动计数统计标准度判定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="728" y="922" width="222" height="26" as="geometry" />
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-50" value="自动计数统计标准度判定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="764" y="922" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-51" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;关节&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;角&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;度&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;解算&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="797" y="692" width="34" height="61.5" as="geometry" />
+          <mxGeometry x="797" y="685" width="34" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872" y="801" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
