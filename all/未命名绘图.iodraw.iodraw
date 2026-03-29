@@ -66,9 +66,10 @@
             <mxPoint x="686" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-42">
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="655" as="sourcePoint" />
+            <mxPoint x="1026" y="751" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-39" value="实时画面采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -76,9 +77,6 @@
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-40" value="姿态关键点提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="878" y="692" width="31" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-42" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;关节角度解算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1013" y="751" width="26" height="149" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-39" source="jnQrgcm9WcDkjXIgkCIK-7">
           <mxGeometry relative="1" as="geometry">
