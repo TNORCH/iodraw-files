@@ -25,6 +25,9 @@
         <mxCell id="dElGWp7Qqq03L8kTRm7E-24" value="CameraX 采集模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="876" y="661" width="72" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="958" y="497" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
