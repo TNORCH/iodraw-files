@@ -30,7 +30,7 @@
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-9" value="实时交互反馈模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="964" y="544" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-11" value="系统设置与管理模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1126" y="544" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
