@@ -14,9 +14,15 @@
           <mxGeometry x="1033" y="229" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-6" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="948" y="492" width="140" height="70" as="geometry" />
+          <mxGeometry x="1033" y="421" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-7" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1028.5" y="321" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-8" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1028.5" y="516" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-9" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="948" y="492" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
