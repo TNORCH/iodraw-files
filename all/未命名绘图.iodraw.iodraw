@@ -29,7 +29,7 @@
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="jnQrgcm9WcDkjXIgkCIK-53" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="948" y="649" as="sourcePoint" />
+            <mxPoint x="968" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-7" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;人体姿态估计引擎模块&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -80,9 +80,9 @@
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-55" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;标准&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;度判&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;定&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1019" y="730.5" width="31" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="948" y="649" as="sourcePoint" />
+            <mxPoint x="952" y="620" as="sourcePoint" />
             <mxPoint x="900" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -92,9 +92,9 @@
             <mxPoint x="1015" y="752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6vStVDTtcQpZbPR44YSD-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-55">
+        <mxCell id="6vStVDTtcQpZbPR44YSD-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="948" y="649" as="sourcePoint" />
+            <mxPoint x="952" y="620" as="sourcePoint" />
             <mxPoint x="1000" y="742" as="targetPoint" />
           </mxGeometry>
         </mxCell>
