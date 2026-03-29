@@ -70,8 +70,8 @@
         <mxCell id="dElGWp7Qqq03L8kTRm7E-46" value="33个三维关键点坐标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="872" y="758" width="124" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="918" y="456" width="40" height="26" as="geometry" />
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-47" value="计数结果 / 纠错文字信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="864" y="456" width="148" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
