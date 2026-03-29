@@ -78,7 +78,7 @@
           <mxGeometry x="878" y="692" width="31" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-41" value="图像预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="923.5" y="711" width="31" height="60" as="geometry" />
+          <mxGeometry x="929" y="696" width="31" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-42" value="相机权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="791" y="689" width="28" height="60" as="geometry" />
@@ -87,6 +87,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="655" as="sourcePoint" />
             <mxPoint x="806" y="744" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="862" y="656" />
+              <mxPoint x="849" y="656" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-40">
