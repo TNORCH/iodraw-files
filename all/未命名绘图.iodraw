@@ -52,14 +52,17 @@
         <mxCell id="dElGWp7Qqq03L8kTRm7E-37" value="表现层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="831.5" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-39" value="实时视频预览窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-39" value="实时视频预览窗口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="747" y="262" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-40" value="运动数据统计面板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-40" value="运动数据统计面板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="807.5" y="345" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-41" value="Canvas 绘制叠加层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-41" value="Canvas 绘制叠加层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="874" y="262" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="356" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
