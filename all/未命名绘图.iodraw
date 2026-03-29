@@ -7,14 +7,8 @@
         <mxCell id="dElGWp7Qqq03L8kTRm7E-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="864.5" y="620" width="202" height="236.5" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dElGWp7Qqq03L8kTRm7E-19" target="dElGWp7Qqq03L8kTRm7E-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="905.5" y="481" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="301" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dElGWp7Qqq03L8kTRm7E-18" target="dElGWp7Qqq03L8kTRm7E-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -23,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-24" value="CameraX 采集模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="924" y="790" width="72" height="46" as="geometry" />
+          <mxGeometry x="929.5" y="785" width="72" height="46" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-25" value="图像预处理模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="914.75" y="726" width="101.5" height="49" as="geometry" />
