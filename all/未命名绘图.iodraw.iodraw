@@ -122,7 +122,7 @@
             <mxPoint x="1124" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6vStVDTtcQpZbPR44YSD-12" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6vStVDTtcQpZbPR44YSD-12" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;实时交互反馈模块&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1214" y="544" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
