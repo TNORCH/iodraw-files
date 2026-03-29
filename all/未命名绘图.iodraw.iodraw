@@ -21,11 +21,6 @@
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-2" value="智能健身辅助系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="807" y="299" width="264" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQrgcm9WcDkjXIgkCIK-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="685" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-5" value="视频感知与采集模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="634" y="544" width="120" height="60" as="geometry" />
         </mxCell>
@@ -46,6 +41,9 @@
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-19" value="图像预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="742" y="685" width="31" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-21" value="相机权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="606" y="683" width="28" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
