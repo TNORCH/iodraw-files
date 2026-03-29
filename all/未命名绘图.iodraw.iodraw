@@ -77,8 +77,8 @@
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-40" value="姿态关键点提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="878" y="692" width="31" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-42" value="相机权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="791" y="689" width="28" height="60" as="geometry" />
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-42" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;关节角度解算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1039" y="774" width="28" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-39" source="jnQrgcm9WcDkjXIgkCIK-7">
           <mxGeometry relative="1" as="geometry">
@@ -105,8 +105,8 @@
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-48" value="姿态关键点提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="923.5" y="692" width="31" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-50" value="关节角度解算动作状态识别自动计数统计标准度判定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="692" y="922" width="294" height="26" as="geometry" />
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-50" value="动作状态识别自动计数统计标准度判定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="728" y="922" width="222" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
