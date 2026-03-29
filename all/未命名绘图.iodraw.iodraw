@@ -96,14 +96,14 @@
             <mxPoint x="852" y="746" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="655" as="sourcePoint" />
             <mxPoint x="944.5" y="696" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-48" value="姿态关键点提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="888" y="702" width="31" height="60" as="geometry" />
+          <mxGeometry x="929" y="696" width="31" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
