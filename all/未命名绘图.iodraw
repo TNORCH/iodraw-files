@@ -67,8 +67,11 @@
         <mxCell id="dElGWp7Qqq03L8kTRm7E-44" value="Android 系统环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="605" y="222" width="122" height="826" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1013" y="666" width="60" height="30" as="geometry" />
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-46" value="33个三维关键点坐标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="872" y="758" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="918" y="456" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
