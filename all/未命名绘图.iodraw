@@ -55,14 +55,11 @@
         <mxCell id="dElGWp7Qqq03L8kTRm7E-39" value="实时视频预览窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="498" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="983" y="567" width="120" height="60" as="geometry" />
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-40" value="运动数据统计面板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="678" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-41" value="Canvas 绘制叠加层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="587" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1171" y="755" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
