@@ -99,6 +99,10 @@
         <mxCell id="6vStVDTtcQpZbPR44YSD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="6vStVDTtcQpZbPR44YSD-5" source="jnQrgcm9WcDkjXIgkCIK-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1057" y="632" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1078" y="624" />
+              <mxPoint x="1133" y="624" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6vStVDTtcQpZbPR44YSD-3" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;动态&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;骨骼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;绘制&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
