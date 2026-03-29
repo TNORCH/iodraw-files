@@ -110,7 +110,7 @@
         <mxCell id="6vStVDTtcQpZbPR44YSD-4" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#330000&quot; face=&quot;Inter, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;实时纠错预警&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1062.75" y="684" width="30.5" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="6vStVDTtcQpZbPR44YSD-5" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;自动&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;计数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;统计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6vStVDTtcQpZbPR44YSD-5" value="&lt;span style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-size: 14px; text-align: start;&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#330000&quot;&gt;运动数据面板&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1117" y="683.75" width="31" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6vStVDTtcQpZbPR44YSD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="6vStVDTtcQpZbPR44YSD-3" source="jnQrgcm9WcDkjXIgkCIK-9">
