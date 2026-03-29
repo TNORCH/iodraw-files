@@ -19,13 +19,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-2" value="智能健身辅助系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="731" y="309" width="264" height="117" as="geometry" />
+          <mxGeometry x="807" y="299" width="264" height="117" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQrgcm9WcDkjXIgkCIK-5" target="jnQrgcm9WcDkjXIgkCIK-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-5" value="视频感知与采集模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="663" y="544" width="120" height="60" as="geometry" />
+          <mxGeometry x="634" y="544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-7" value="健身动作逻辑分析模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="802" y="544" width="120" height="60" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry x="1126" y="544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-13" value="相机权限管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="687" width="28" height="60" as="geometry" />
+          <mxGeometry x="600" y="684" width="28" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-17" value="实时画面采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="691" y="687" width="31" height="60" as="geometry" />
