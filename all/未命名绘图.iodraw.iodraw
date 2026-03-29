@@ -13,6 +13,9 @@
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jnQrgcm9WcDkjXIgkCIK-2" target="jnQrgcm9WcDkjXIgkCIK-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6vStVDTtcQpZbPR44YSD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQrgcm9WcDkjXIgkCIK-2" target="6vStVDTtcQpZbPR44YSD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-2" value="智能健身辅助系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="807" y="299" width="264" height="117" as="geometry" />
         </mxCell>
@@ -116,6 +119,9 @@
             <mxPoint x="1057" y="632" as="sourcePoint" />
             <mxPoint x="1124" y="735" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6vStVDTtcQpZbPR44YSD-12" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1223" y="327.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
