@@ -21,6 +21,9 @@
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-2" value="智能健身辅助系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="807" y="299" width="264" height="117" as="geometry" />
         </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQrgcm9WcDkjXIgkCIK-5" target="jnQrgcm9WcDkjXIgkCIK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-5" value="视频感知与采集模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="634" y="544" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,9 +47,6 @@
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-21" value="相机权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="606" y="683" width="28" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="907" y="781" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
