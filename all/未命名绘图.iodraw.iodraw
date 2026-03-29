@@ -34,7 +34,7 @@
           <mxGeometry x="802" y="544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-9" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;健身动作逻辑分析模块&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1018" y="544" width="120" height="60" as="geometry" />
+          <mxGeometry x="971" y="544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-17" value="实时画面采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="644" y="685" width="31" height="60" as="geometry" />
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6vStVDTtcQpZbPR44YSD-3" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;动态&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;骨骼&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;绘制&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1168" y="714" width="34" height="61.5" as="geometry" />
+          <mxGeometry x="1209" y="714" width="34" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="6vStVDTtcQpZbPR44YSD-4" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#330000&quot; face=&quot;Inter, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;实时纠错预警&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1258.75" y="714.5" width="30.5" height="62" as="geometry" />
