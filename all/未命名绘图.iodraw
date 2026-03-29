@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dElGWp7Qqq03L8kTRm7E-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="723" y="810" width="287" height="236.5" as="geometry" />
+          <mxGeometry x="725" y="810" width="285" height="236.5" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dElGWp7Qqq03L8kTRm7E-19" target="dElGWp7Qqq03L8kTRm7E-35">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1008" y="222" width="78" height="823" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-44" value="Android 系统环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="554" y="225" width="122" height="826" as="geometry" />
+          <mxGeometry x="605" y="222" width="122" height="826" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
