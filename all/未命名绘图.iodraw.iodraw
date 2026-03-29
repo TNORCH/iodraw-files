@@ -37,10 +37,13 @@
           <mxGeometry x="1126" y="544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-13" value="相机权限管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="687" width="28" height="60" as="geometry" />
+          <mxGeometry x="635" y="687" width="28" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-16" value="姿态关键点提取图像预处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="771" width="415" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-17" value="实时画面采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872" y="801" width="31" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
