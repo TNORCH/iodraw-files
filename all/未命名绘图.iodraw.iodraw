@@ -66,6 +66,46 @@
             <mxPoint x="686" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="655" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-39" value="实时画面采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="736" width="31" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-40" value="姿态关键点提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="873" y="736" width="31" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-41" value="图像预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="918" y="736" width="31" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-42" value="相机权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="782" y="734" width="28" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="655" as="sourcePoint" />
+            <mxPoint x="806" y="744" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jnQrgcm9WcDkjXIgkCIK-43">
+          <mxGeometry x="-0.8436" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="655" as="sourcePoint" />
+            <mxPoint x="852" y="746" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="jnQrgcm9WcDkjXIgkCIK-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="655" as="sourcePoint" />
+            <mxPoint x="862" y="756" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
