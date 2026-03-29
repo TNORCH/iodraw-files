@@ -17,13 +17,13 @@
           <mxGeometry x="872" y="401" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-5" value="视频感知与采集模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="672" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="663" y="549" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-7" value="健身动作逻辑分析模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="802" y="544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-9" value="实时交互反馈模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1062" y="541" width="120" height="60" as="geometry" />
+          <mxGeometry x="964" y="544" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
