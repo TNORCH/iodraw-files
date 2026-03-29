@@ -61,10 +61,10 @@
         <mxCell id="dElGWp7Qqq03L8kTRm7E-41" value="Canvas 绘制叠加层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="874" y="262" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-43" value="本地数据存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-43" value="本地数据存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="1061" y="224" width="78" height="823" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-44" value="Android 系统环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-44" value="Android 系统环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="554" y="225" width="122" height="826" as="geometry" />
         </mxCell>
       </root>
