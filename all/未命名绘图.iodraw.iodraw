@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jnQrgcm9WcDkjXIgkCIK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQrgcm9WcDkjXIgkCIK-2" target="jnQrgcm9WcDkjXIgkCIK-5">
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jnQrgcm9WcDkjXIgkCIK-2" target="jnQrgcm9WcDkjXIgkCIK-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQrgcm9WcDkjXIgkCIK-2" target="jnQrgcm9WcDkjXIgkCIK-7">
@@ -13,8 +13,11 @@
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQrgcm9WcDkjXIgkCIK-2" target="jnQrgcm9WcDkjXIgkCIK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQrgcm9WcDkjXIgkCIK-2" target="jnQrgcm9WcDkjXIgkCIK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-2" value="智能健身辅助系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="872" y="401" width="120" height="60" as="geometry" />
+          <mxGeometry x="875" y="366" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-5" value="视频感知与采集模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="663" y="549" width="120" height="60" as="geometry" />
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-9" value="实时交互反馈模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="964" y="544" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="401" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
