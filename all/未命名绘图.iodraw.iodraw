@@ -103,7 +103,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jnQrgcm9WcDkjXIgkCIK-48" value="姿态关键点提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="929" y="696" width="31" height="60" as="geometry" />
+          <mxGeometry x="923.5" y="692" width="31" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQrgcm9WcDkjXIgkCIK-50" value="关节角度解算动作状态识别自动计数统计标准度判定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="692" y="922" width="294" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
