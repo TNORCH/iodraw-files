@@ -31,8 +31,8 @@
         <mxCell id="dElGWp7Qqq03L8kTRm7E-26" value="ML Kit / Mediapipe 引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="909.25" y="659" width="112.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1202" y="773" width="40" height="26" as="geometry" />
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-27" value="感知层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="773" width="54" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
