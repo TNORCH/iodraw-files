@@ -10,6 +10,15 @@
         <mxCell id="dElGWp7Qqq03L8kTRm7E-3" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="963" y="202" width="271" height="496" as="geometry" />
         </mxCell>
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-4" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1033" y="229" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-6" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="948" y="492" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-7" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="948" y="492" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
