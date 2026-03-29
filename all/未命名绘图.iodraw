@@ -1,56 +1,56 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="G36MFSyuFcvKjXAFpTIU">
-    <mxGraphModel dx="2167" dy="1313" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1535" dy="930" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dElGWp7Qqq03L8kTRm7E-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="864.5" y="620" width="202" height="236.5" as="geometry" />
+          <mxGeometry x="875.5" y="821" width="202" height="236.5" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dElGWp7Qqq03L8kTRm7E-19" target="dElGWp7Qqq03L8kTRm7E-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="825" y="325" width="281" height="213" as="geometry" />
+          <mxGeometry x="836" y="526" width="281" height="213" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dElGWp7Qqq03L8kTRm7E-18" target="dElGWp7Qqq03L8kTRm7E-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="993" y="552" as="sourcePoint" />
-            <mxPoint x="1043" y="502" as="targetPoint" />
+            <mxPoint x="1004" y="753" as="sourcePoint" />
+            <mxPoint x="1054" y="703" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-24" value="CameraX 采集模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="929.5" y="785" width="72" height="46" as="geometry" />
+          <mxGeometry x="940.5" y="986" width="72" height="46" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-25" value="图像预处理模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="914.75" y="726" width="101.5" height="49" as="geometry" />
+          <mxGeometry x="925.75" y="927" width="101.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-26" value="ML Kit / Mediapipe 引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="909.25" y="657" width="112.5" height="55" as="geometry" />
+          <mxGeometry x="920.25" y="858" width="112.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-27" value="感知层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="938.5" y="628" width="54" height="26" as="geometry" />
+          <mxGeometry x="949.5" y="829" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-29" value="坐标平滑模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="980" y="455" width="120" height="60" as="geometry" />
+          <mxGeometry x="991" y="656" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-30" value="向量几何解算器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="834" y="455" width="120" height="60" as="geometry" />
+          <mxGeometry x="845" y="656" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-32" value="FSM 动作状态机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="977" y="378" width="120" height="60" as="geometry" />
+          <mxGeometry x="988" y="579" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-33" value="纠错判定引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="834" y="378" width="120" height="60" as="geometry" />
+          <mxGeometry x="845" y="579" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-34" value="逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="938.5" y="336" width="54" height="26" as="geometry" />
+          <mxGeometry x="949.5" y="537" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="825" y="32" width="281" height="213" as="geometry" />
+          <mxGeometry x="836" y="233" width="281" height="213" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1202" y="212" width="60" height="30" as="geometry" />
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-37" value="表现层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1213" y="413" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
