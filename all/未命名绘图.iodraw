@@ -13,10 +13,10 @@
         <mxCell id="dElGWp7Qqq03L8kTRm7E-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;姿态实时监测&lt;/span&gt;&lt;font face=&quot;Inter, sans-serif&quot; color=&quot;#d4d4d4&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1033" y="242" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-6" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-6" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;实时纠错与指导&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1033" y="429" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dElGWp7Qqq03L8kTRm7E-7" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dElGWp7Qqq03L8kTRm7E-7" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;动作选择与匹配&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1028.5" y="331" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dElGWp7Qqq03L8kTRm7E-8" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
