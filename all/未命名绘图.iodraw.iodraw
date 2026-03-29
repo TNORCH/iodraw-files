@@ -140,7 +140,7 @@
         <mxCell id="6vStVDTtcQpZbPR44YSD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6vStVDTtcQpZbPR44YSD-21" target="6vStVDTtcQpZbPR44YSD-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6vStVDTtcQpZbPR44YSD-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6vStVDTtcQpZbPR44YSD-21" value="准备态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="244" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6vStVDTtcQpZbPR44YSD-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6vStVDTtcQpZbPR44YSD-22" target="6vStVDTtcQpZbPR44YSD-24">
@@ -149,8 +149,17 @@
         <mxCell id="6vStVDTtcQpZbPR44YSD-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="244" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6vStVDTtcQpZbPR44YSD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6vStVDTtcQpZbPR44YSD-24" target="6vStVDTtcQpZbPR44YSD-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6vStVDTtcQpZbPR44YSD-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6vStVDTtcQpZbPR44YSD-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6vStVDTtcQpZbPR44YSD-26" target="6vStVDTtcQpZbPR44YSD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vStVDTtcQpZbPR44YSD-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="384" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
