@@ -168,13 +168,16 @@
           <mxGeometry x="1167" y="388" width="58" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-22" value="&lt;span style=&quot;line-height: 115%; font-family: 宋体;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Angle&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: 宋体;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Calculator&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1111.5" y="426.55" width="58" height="28" as="geometry" />
+          <mxGeometry x="1059" y="426.55" width="58" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1041.5" y="212" width="205.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1052" y="232" width="120" height="60" as="geometry" />
+          <mxGeometry x="1054.5" y="251" width="55" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="UDN-LpBg6kJNdH4J_CaM-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="233" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
