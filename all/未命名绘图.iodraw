@@ -147,16 +147,16 @@
           <mxGeometry x="1084" y="363" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1041.5" y="436" width="205" height="180" as="geometry" />
+          <mxGeometry x="1041.5" y="455" width="205" height="148" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-13" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1108" y="443" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Exercise&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Repository&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1104.63" y="552" width="86" height="42" as="geometry" />
+          <mxGeometry x="1157.92" y="496" width="86" height="42" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-17" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;MLKit&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;Pose&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;Detec&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;tor&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1108" y="486" width="79.25" height="42" as="geometry" />
+          <mxGeometry x="1052" y="508" width="79.25" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
