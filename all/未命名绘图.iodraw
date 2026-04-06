@@ -153,10 +153,10 @@
           <mxGeometry x="1108" y="443" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;MLKit&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;Pose&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;Detec&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;tor&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1108" y="473" width="79.25" height="42" as="geometry" />
+          <mxGeometry x="1116" y="552" width="79.25" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="UDN-LpBg6kJNdH4J_CaM-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1087.63" y="534" width="120" height="60" as="geometry" />
+        <mxCell id="UDN-LpBg6kJNdH4J_CaM-17" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;MLKit&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;Pose&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;Detec&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 12pt;&quot;&gt;tor&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1108" y="486" width="79.25" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
