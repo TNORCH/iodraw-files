@@ -143,7 +143,7 @@
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1084" y="291" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UDN-LpBg6kJNdH4J_CaM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDN-LpBg6kJNdH4J_CaM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1039" y="359" width="201" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -162,7 +162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-19" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;领域层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1103" y="361" width="60" height="30" as="geometry" />
+          <mxGeometry x="1109.5" y="361" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
