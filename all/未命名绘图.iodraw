@@ -198,7 +198,10 @@
           <mxGeometry x="838.1300000000001" y="551" width="55" height="37" as="geometry" />
         </mxCell>
         <mxCell id="UDN-LpBg6kJNdH4J_CaM-44" value="调用业务逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="934" y="274" width="90" height="26" as="geometry" />
+          <mxGeometry x="874.12" y="276" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="UDN-LpBg6kJNdH4J_CaM-45" value="实现接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="869" y="426" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
